@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashwanthAnantha
+- 👋 Hi, I’m YashwanthAnantha
 - 👀 I’m interested in Data science
 - 🌱 I’m currently pursuing masters in Bioinforamatics and Data science at Sathyabama University, Chennai
 - 💞️ I’m looking to collaborate on Data Science projects
